@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/monatheoctocat/my_package.git"
+    "url": "https://github.com/Mohit-au50/staybook-task.git"
   },
   "keywords": [],
-  "author": "Mohit-au50",
+  "author": "Mohit <mk.mohit2440@gmail.com>",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.0"
