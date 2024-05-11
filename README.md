@@ -14,4 +14,4 @@ Before proceeding, make sure you have the following prerequisites installed and 
 1. **Install Dependencies**: Install the necessary dependencies by running the following command in your project directory:
 
    ```bash
-   npm install
+   npm install express firebase-admin

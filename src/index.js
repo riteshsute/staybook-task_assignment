@@ -15,7 +15,7 @@ app.get("/", (req, res) => {
 // middelware to parse the json request body similar to body-parser
 app.use(express.json());
 
-// use v1Router
+// use v1Router by default
 app.use("/api/v1/hotels", v1Router);
 
 // listen to the app on the specified port

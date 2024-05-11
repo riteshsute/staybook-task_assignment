@@ -1,5 +1,6 @@
 const { db } = require("../../database/firebase");
 
+// call database function from this controller and return the data
 const getAllFirebaseDocuments = async (req, res) => {
   try {
     const snapshot = await db.collection("your_collection").get();
